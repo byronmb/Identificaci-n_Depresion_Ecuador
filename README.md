@@ -12,7 +12,7 @@
     `pip install pandas`
 * [Matplotlib](https://matplotlib.org/stable/users/installing/index.html)
     `pip install matplotlib`
-* [Matplotlib](https://scikit-learn.org/stable/install.html)
+* [Scikit-learn](https://scikit-learn.org/stable/install.html)
     `pip install scikit-learn`
     
 
