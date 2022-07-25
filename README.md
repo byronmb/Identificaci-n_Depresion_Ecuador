@@ -25,11 +25,14 @@
 * [Shapely](https://pypi.org/project/Shapely/)
     `pip install Shapely`
 * [Twint](https://github.com/woluxwolu/twint.git)
-    `!pip3 install git+https://github.com/woluxwolu/twint.git`
+    `pip3 install git+https://github.com/woluxwolu/twint.git`
 
 
 * ### Preprocesamiento
 
+* **re**
+    `Instalado por defecto`
+    
 * [Emoji](https://pypi.org/project/emoji/)
     `pip install emoji`
 * [NLTK](https://www.nltk.org/install.html)
