@@ -43,3 +43,10 @@
     `pip install wordcloud`
 
 
+* ### Extracción de características
+
+* [Imblearn](https://pypi.org/project/imblearn/)
+    `pip install imblearn`
+* [Scipy](https://pypi.org/project/scipy/)
+    `pip install scipy`
+
