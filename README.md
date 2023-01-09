@@ -52,3 +52,8 @@
 * [Scipy](https://pypi.org/project/scipy/)
     `pip install scipy`
 
+
+* ### Análisis univariado y bivariado
+
+* [Plotly](https://plotly.com/python/getting-started/)
+    `pip install plotly`
