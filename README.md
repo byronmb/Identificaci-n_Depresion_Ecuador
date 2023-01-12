@@ -12,6 +12,8 @@
     `pip install pandas`
 * [Matplotlib](https://matplotlib.org/stable/users/installing/index.html)
     `pip install matplotlib`
+* [Seaborn](https://seaborn.pydata.org/installing.html)
+    `pip install seaborn`
 * [Scikit-learn](https://scikit-learn.org/stable/install.html)
     `pip install scikit-learn`
     
@@ -50,3 +52,8 @@
 * [Scipy](https://pypi.org/project/scipy/)
     `pip install scipy`
 
+
+* ### Análisis univariado y bivariado
+
+* [Plotly](https://plotly.com/python/getting-started/)
+    `pip install plotly`
