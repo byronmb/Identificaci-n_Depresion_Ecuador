@@ -9,7 +9,7 @@
 * ### GENERAL
 
 * [Pandas](https://pypi.org/project/pandas/)
-    `pip install pandas` *version: 2.3.4*
+    `pip install pandas` <sub>*version: 2.3.4*</sub>
 * [Matplotlib](https://matplotlib.org/stable/users/installing/index.html)
     `pip install matplotlib`
 * [Seaborn](https://seaborn.pydata.org/installing.html)
