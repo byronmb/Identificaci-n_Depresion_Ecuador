@@ -11,7 +11,7 @@
 * [Pandas](https://pypi.org/project/pandas/)
     `pip install pandas` <sub>*versión: *</sub>
 * [Matplotlib](https://matplotlib.org/stable/users/installing/index.html)
-    `pip install matplotlib` <sub>versión: </sub>
+    `pip install matplotlib` <sub>*versión: *</sub>
 * [Seaborn](https://seaborn.pydata.org/installing.html)
     `pip install seaborn` <sub>*versión: 4*</sub>
 * [Scikit-learn](https://scikit-learn.org/stable/install.html)
@@ -27,7 +27,7 @@
 * [Shapely](https://pypi.org/project/Shapely/)
     `pip install Shapely` <sub>*versión: 4*</sub>
 * [Twint](https://github.com/woluxwolu/twint.git)
-    `pip3 install git+https://github.com/woluxwolu/twint.git` <sub>versión: 2.1.21</sub>                  
+    `pip3 install git+https://github.com/woluxwolu/twint.git` <sub>*versión: 2.1.21*</sub>                  
 
 
 * ### Preprocesamiento
