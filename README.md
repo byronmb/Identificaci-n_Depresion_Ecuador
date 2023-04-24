@@ -4,10 +4,12 @@
 
 
 
-## Librerias Necesarias
+## Librerías y Software Necesario
 
 * ### GENERAL
 
+* Python 3.8.8
+* Anaconda 4.12.0
 * [Pandas](https://pypi.org/project/pandas/)
     `pip install pandas` <sub>*versión: 1.4.2*</sub>
 * [Matplotlib](https://matplotlib.org/stable/users/installing/index.html)
@@ -62,3 +64,7 @@
 
 * [Plotly](https://plotly.com/python/getting-started/)
     `pip install plotly` <sub>*versión: 5.10.0*</sub>
+
+#Punto importante
+
+Debido a que GitHub limita subir los archivos con un tamaño superior a 100 MB, el modelo de Support Vector Machines no esta disponible directamente en este repositorio, si se desea acceder a éste, esta disponible en el siguinete enlace:
