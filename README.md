@@ -39,8 +39,6 @@
     `pip install emoji` <sub>*versión: 1.7.0*</sub>
 * [NLTK](https://www.nltk.org/install.html)
     `pip install nltk` <sub>*versión: 3.7*</sub>
-* [Spacy](https://spacy.io/usage)
-    `pip install -U spacy` <sub>*versión: 3.3.1*</sub>
 * [Stanza](https://stanfordnlp.github.io/stanza/installation_usage.html)
     `pip install stanza` <sub>*versión: 1.4.0*</sub>
 * [Wordcloud](https://pypi.org/project/wordcloud/)
