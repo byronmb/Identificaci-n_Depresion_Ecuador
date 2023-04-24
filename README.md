@@ -8,8 +8,6 @@
 
 * ### GENERAL
 
-* [Python](https://pypi.org/project/pandas/)
-    `pip install pandas` <sub>*versión: 1.4.2*</sub>
 * [Pandas](https://pypi.org/project/pandas/)
     `pip install pandas` <sub>*versión: 1.4.2*</sub>
 * [Matplotlib](https://matplotlib.org/stable/users/installing/index.html)
@@ -65,4 +63,4 @@
 * ### Análisis univariado y bivariado
 
 * [Plotly](https://plotly.com/python/getting-started/)
-    `pip install plotly` <sub>*versión: 4*</sub>
+    `pip install plotly` <sub>*versión: 5.10.0*</sub>
