@@ -67,4 +67,4 @@
 
 # Punto importante
 
-Debido a que GitHub limita subir los archivos con un tamaño superior a 100 MB, el modelo de Support Vector Machines no esta disponible directamente en este repositorio, si se desea acceder a éste, esta disponible en el siguinete enlace:
+Debido a que GitHub limita subir los archivos con un tamaño superior a 100 MB, el modelo de Support Vector Machines no está disponible directamente en este repositorio, si se desea acceder el modelo, está disponible en el siguinete [enlace](https://drive.google.com/file/d/1-OAn9e5poC4oP2Ub0MmAaWilJ-L1t7Jc/view?usp=sharing)
