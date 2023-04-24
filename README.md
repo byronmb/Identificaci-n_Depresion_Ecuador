@@ -8,14 +8,14 @@
 
 * ### GENERAL
 
+* [Python](https://pypi.org/project/pandas/)
+    `pip install pandas` <sub>*versión: 1.4.2*</sub>
 * [Pandas](https://pypi.org/project/pandas/)
     `pip install pandas` <sub>*versión: 1.4.2*</sub>
 * [Matplotlib](https://matplotlib.org/stable/users/installing/index.html)
     `pip install matplotlib` <sub>*versión: 3.5.2*</sub>
 * [Seaborn](https://seaborn.pydata.org/installing.html)
-    `pip install seaborn` <sub>*versión: 4*</sub>
-* [Scikit-learn](https://scikit-learn.org/stable/install.html)
-    `pip install scikit-learn` <sub>*versión: 4*</sub>
+    `pip install seaborn` <sub>*versión: 0.11.2*</sub>
 * [Numpy](https://numpy.org/install/)
     `pip install numpy` <sub>*versión: 1.22.3*</sub>    
 
@@ -27,7 +27,7 @@
 * [H3](https://h3geo.org/docs/installation/)
     `pip install h3` <sub>versión: 3.7.4</sub>
 * [Shapely](https://pypi.org/project/Shapely/)
-    `pip install Shapely` <sub>*versión: 4*</sub>
+    `pip install Shapely` <sub>*versión: 1.8.2*</sub>
 * [Twint](https://github.com/woluxwolu/twint.git)
     `pip3 install git+https://github.com/woluxwolu/twint.git` <sub>*versión: 2.1.21*</sub>                  
 
@@ -40,7 +40,9 @@
 * [Emoji](https://pypi.org/project/emoji/)
     `pip install emoji` <sub>*versión: 1.7.0*</sub>
 * [NLTK](https://www.nltk.org/install.html)
-    `pip install nltk` <sub>*versión: 4*</sub>
+    `pip install nltk` <sub>*versión: 3.7*</sub>
+* [Spacy](https://spacy.io/usage)
+    `pip install -U spacy` <sub>*versión: 3.3.1*</sub>
 * [Stanza](https://stanfordnlp.github.io/stanza/installation_usage.html)
     `pip install stanza` <sub>*versión: 1.4.0*</sub>
 * [Wordcloud](https://pypi.org/project/wordcloud/)
@@ -50,10 +52,15 @@
 * ### Extracción de características
 
 * [Imblearn](https://pypi.org/project/imblearn/)
-    `pip install imblearn` <sub>*versión: 4*</sub>
+    `pip install imblearn` <sub>*versión: 0.0*</sub>
+    
+* ### Entrenamiento de modelos
 * [Scipy](https://pypi.org/project/scipy/)
-    `pip install scipy` <sub>*versión: 4*</sub>
-
+    `pip install scipy` <sub>*versión: 1.8.1*</sub>
+* [Scikit-learn](https://scikit-learn.org/stable/install.html)
+    `pip install -U scikit-learn` <sub>*versión: 1.1.1*</sub>
+* [Joblib](https://pypi.org/project/joblib/)
+    `pip install joblib` <sub>*versión: 1.1.0*</sub>
 
 * ### Análisis univariado y bivariado
 
