@@ -65,6 +65,6 @@
 * [Plotly](https://plotly.com/python/getting-started/)
     `pip install plotly` <sub>*versión: 5.10.0*</sub>
 
-#Punto importante
+# Punto importante
 
 Debido a que GitHub limita subir los archivos con un tamaño superior a 100 MB, el modelo de Support Vector Machines no esta disponible directamente en este repositorio, si se desea acceder a éste, esta disponible en el siguinete enlace:
