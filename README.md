@@ -57,6 +57,8 @@
     `pip install scipy` <sub>*versión: 1.8.1*</sub>
 * [Scikit-learn](https://scikit-learn.org/stable/install.html)
     `pip install -U scikit-learn` <sub>*versión: 1.1.1*</sub>
+* **Pickle**
+    `Instalado por defecto`  
 * [Joblib](https://pypi.org/project/joblib/)
     `pip install joblib` <sub>*versión: 1.1.0*</sub>
 
